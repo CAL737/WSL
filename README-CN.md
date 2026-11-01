@@ -1,4 +1,4 @@
-[**简体中文**](./README-CN.md) | [English](.//README.md)
+[English](./README.md) | **简体中文**
 
 # 欢迎来到适用于 Linux 的 Windows 子系统（WSL）仓库
 
