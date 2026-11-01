@@ -1,3 +1,4 @@
+[简体中文](./README-CN.md) | [**English**](./README.md)
 
 # Welcome to the Windows Subsystem for Linux (WSL) repository
 
